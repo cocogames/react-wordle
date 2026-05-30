@@ -2,7 +2,7 @@
 
 这是广受欢迎的单词猜谜游戏 Wordle 的克隆版，使用 React、TypeScript 和 Tailwind CSS 构建。
 
-[**在线体验 Demo！**](https://reactle.vercel.app/)
+[**在线体验 Demo！**](https://wordle-en.luomor.com/)
 
 [English](README.md) | [简体中文](README_CN.md)
 
