@@ -4,6 +4,8 @@ This is a clone project of the popular word guessing game we all know and love. 
 
 [**Try out the demo!**](https://reactle.vercel.app/)
 
+[English](README.md) | [简体中文](README_CN.md)
+
 ## Build and run
 
 ### To Run Locally:
